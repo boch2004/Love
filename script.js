@@ -10,6 +10,7 @@ yesBtn.addEventListener("click", () => {
 
     // Hide the No button
     noBtn.style.display = "none";
+      yesBtn.style.display = "none";
 });
 
 // Make the No button move randomly on hover
